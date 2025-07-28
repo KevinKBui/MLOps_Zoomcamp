@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/d4eda52472fb4a5a8f3b91cffe2cb27e/artifacts
+end_time: 1751664686367
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: d4eda52472fb4a5a8f3b91cffe2cb27e
+run_name: invincible-crab-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664678598
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/05f64da1c91844d1ad881221d8fbc666/artifacts
+end_time: 1751664696102
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 05f64da1c91844d1ad881221d8fbc666
+run_name: kindly-robin-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664689518
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/3e68c18571b4418e900aa558bc253631/artifacts
+end_time: 1751664842879
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 3e68c18571b4418e900aa558bc253631
+run_name: polite-duck-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664813354
+status: 3
+tags: []
+user_id: codespace

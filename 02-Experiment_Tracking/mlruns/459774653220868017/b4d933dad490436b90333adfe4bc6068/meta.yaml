@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/b4d933dad490436b90333adfe4bc6068/artifacts
+end_time: 1751664772965
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: b4d933dad490436b90333adfe4bc6068
+run_name: loud-moth-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664764733
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/9de50a907a07421394cd78a1388eda86/artifacts
+end_time: 1751665265395
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 9de50a907a07421394cd78a1388eda86
+run_name: industrious-donkey-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665262064
+status: 3
+tags: []
+user_id: codespace

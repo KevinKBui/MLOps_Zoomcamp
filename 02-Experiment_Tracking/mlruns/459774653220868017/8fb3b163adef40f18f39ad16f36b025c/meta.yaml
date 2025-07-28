@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/8fb3b163adef40f18f39ad16f36b025c/artifacts
+end_time: 1751663868323
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 8fb3b163adef40f18f39ad16f36b025c
+run_name: unruly-wolf-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751663853233
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/d7634fe6887242f4a751080fcc86398b/artifacts
+end_time: 1751664639334
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: d7634fe6887242f4a751080fcc86398b
+run_name: rogue-grub-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664632888
+status: 3
+tags: []
+user_id: codespace

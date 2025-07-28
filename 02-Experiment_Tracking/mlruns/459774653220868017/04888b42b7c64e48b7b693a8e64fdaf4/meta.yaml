@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/04888b42b7c64e48b7b693a8e64fdaf4/artifacts
+end_time: 1751664981413
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 04888b42b7c64e48b7b693a8e64fdaf4
+run_name: gentle-flea-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664961323
+status: 3
+tags: []
+user_id: codespace

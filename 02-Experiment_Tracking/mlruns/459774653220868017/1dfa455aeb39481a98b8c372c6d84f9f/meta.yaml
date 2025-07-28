@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/1dfa455aeb39481a98b8c372c6d84f9f/artifacts
+end_time: 1751664663946
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 1dfa455aeb39481a98b8c372c6d84f9f
+run_name: dashing-frog-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664643792
+status: 3
+tags: []
+user_id: codespace

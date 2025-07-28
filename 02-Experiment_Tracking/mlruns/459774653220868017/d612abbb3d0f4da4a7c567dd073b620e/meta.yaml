@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/d612abbb3d0f4da4a7c567dd073b620e/artifacts
+end_time: 1751664993751
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: d612abbb3d0f4da4a7c567dd073b620e
+run_name: redolent-whale-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664981441
+status: 3
+tags: []
+user_id: codespace

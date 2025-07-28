@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/f8b62b99047f4981814a4bfa2f964365/artifacts
+end_time: 1751665109497
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: f8b62b99047f4981814a4bfa2f964365
+run_name: casual-toad-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665102733
+status: 3
+tags: []
+user_id: codespace

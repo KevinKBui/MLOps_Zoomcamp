@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/0091f096383a401999b62287cc42b773/artifacts
+end_time: 1751664678576
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 0091f096383a401999b62287cc42b773
+run_name: sedate-grouse-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664671593
+status: 3
+tags: []
+user_id: codespace

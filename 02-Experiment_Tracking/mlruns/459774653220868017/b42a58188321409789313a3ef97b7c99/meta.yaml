@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/b42a58188321409789313a3ef97b7c99/artifacts
+end_time: 1751664927695
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: b42a58188321409789313a3ef97b7c99
+run_name: merciful-colt-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664918904
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/dd1cdae9c73740b6819f8a6423e58dec/artifacts
+end_time: 1751664671571
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: dd1cdae9c73740b6819f8a6423e58dec
+run_name: chill-turtle-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664667936
+status: 3
+tags: []
+user_id: codespace

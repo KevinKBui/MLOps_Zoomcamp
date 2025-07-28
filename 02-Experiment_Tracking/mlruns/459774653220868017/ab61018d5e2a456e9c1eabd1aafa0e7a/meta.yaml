@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/ab61018d5e2a456e9c1eabd1aafa0e7a/artifacts
+end_time: 1751664938353
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: ab61018d5e2a456e9c1eabd1aafa0e7a
+run_name: bold-fawn-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664927724
+status: 3
+tags: []
+user_id: codespace

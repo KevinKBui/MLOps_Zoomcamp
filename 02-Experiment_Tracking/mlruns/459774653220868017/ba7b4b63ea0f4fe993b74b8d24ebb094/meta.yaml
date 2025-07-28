@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/ba7b4b63ea0f4fe993b74b8d24ebb094/artifacts
+end_time: 1751665058594
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: ba7b4b63ea0f4fe993b74b8d24ebb094
+run_name: painted-colt-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665042555
+status: 3
+tags: []
+user_id: codespace

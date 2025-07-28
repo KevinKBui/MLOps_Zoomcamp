@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/486cab550ee64695b5a1bd1f23399825/artifacts
+end_time: 1751665215001
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 486cab550ee64695b5a1bd1f23399825
+run_name: aged-panda-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665206863
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,9 @@
+aliases:
+  modelname1: '1'
+  modelname2: '2'
+creation_timestamp: 1751666241383
+deployment_job_id: null
+deployment_job_state: null
+description: This is an example of a registered model
+last_updated_timestamp: 1751667074883
+name: Example1

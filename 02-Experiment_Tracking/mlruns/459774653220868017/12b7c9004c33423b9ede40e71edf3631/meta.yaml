@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/12b7c9004c33423b9ede40e71edf3631/artifacts
+end_time: 1751664749307
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 12b7c9004c33423b9ede40e71edf3631
+run_name: flawless-shark-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664729821
+status: 3
+tags: []
+user_id: codespace

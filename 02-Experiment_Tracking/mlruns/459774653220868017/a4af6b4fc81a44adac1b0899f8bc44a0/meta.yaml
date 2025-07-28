@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/a4af6b4fc81a44adac1b0899f8bc44a0/artifacts
+end_time: 1751665001423
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: a4af6b4fc81a44adac1b0899f8bc44a0
+run_name: blushing-snail-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664993780
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/fda9fb731fe94f759259459faeb6f4d8/artifacts
+end_time: 1751665143307
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: fda9fb731fe94f759259459faeb6f4d8
+run_name: gifted-penguin-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665131366
+status: 3
+tags: []
+user_id: codespace

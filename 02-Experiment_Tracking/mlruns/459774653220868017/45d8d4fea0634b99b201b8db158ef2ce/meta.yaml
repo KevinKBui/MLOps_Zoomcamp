@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/45d8d4fea0634b99b201b8db158ef2ce/artifacts
+end_time: 1751664729798
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 45d8d4fea0634b99b201b8db158ef2ce
+run_name: fearless-moth-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664704833
+status: 3
+tags: []
+user_id: codespace

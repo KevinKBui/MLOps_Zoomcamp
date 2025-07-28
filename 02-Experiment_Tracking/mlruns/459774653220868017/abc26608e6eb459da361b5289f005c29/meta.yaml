@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/abc26608e6eb459da361b5289f005c29/artifacts
+end_time: 1751663797203
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: abc26608e6eb459da361b5289f005c29
+run_name: worried-fawn-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751663796267
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/3e51fd310c1a42e5b851b7383338161c/artifacts
+end_time: 1751664704811
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 3e51fd310c1a42e5b851b7383338161c
+run_name: receptive-kite-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664696122
+status: 3
+tags: []
+user_id: codespace

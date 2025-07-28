@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/b8113a06919140c0bbde0f54c4a75b80/artifacts
+end_time: 1751665102704
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: b8113a06919140c0bbde0f54c4a75b80
+run_name: kindly-fish-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665058622
+status: 3
+tags: []
+user_id: codespace

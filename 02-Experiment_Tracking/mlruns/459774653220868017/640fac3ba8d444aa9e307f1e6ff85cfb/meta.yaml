@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/640fac3ba8d444aa9e307f1e6ff85cfb/artifacts
+end_time: 1751665009227
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 640fac3ba8d444aa9e307f1e6ff85cfb
+run_name: treasured-fowl-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665001453
+status: 3
+tags: []
+user_id: codespace

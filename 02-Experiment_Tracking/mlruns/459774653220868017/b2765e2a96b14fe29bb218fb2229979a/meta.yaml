@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/b2765e2a96b14fe29bb218fb2229979a/artifacts
+end_time: 1751664918869
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: b2765e2a96b14fe29bb218fb2229979a
+run_name: dashing-tern-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664902663
+status: 3
+tags: []
+user_id: codespace

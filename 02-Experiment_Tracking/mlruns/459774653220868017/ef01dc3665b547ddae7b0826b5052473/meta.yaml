@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/ef01dc3665b547ddae7b0826b5052473/artifacts
+end_time: 1751665206835
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: ef01dc3665b547ddae7b0826b5052473
+run_name: charming-cow-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665189743
+status: 3
+tags: []
+user_id: codespace

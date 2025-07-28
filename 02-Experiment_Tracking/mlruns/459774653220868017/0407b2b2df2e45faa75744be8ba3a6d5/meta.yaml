@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/0407b2b2df2e45faa75744be8ba3a6d5/artifacts
+end_time: 1751666092182
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: 0407b2b2df2e45faa75744be8ba3a6d5
+run_name: respected-dove-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751666078108
+status: 3
+tags: []
+user_id: codespace

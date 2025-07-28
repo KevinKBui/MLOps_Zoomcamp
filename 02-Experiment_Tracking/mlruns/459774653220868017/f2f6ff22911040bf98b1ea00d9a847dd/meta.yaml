@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/f2f6ff22911040bf98b1ea00d9a847dd/artifacts
+end_time: 1751665131337
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: f2f6ff22911040bf98b1ea00d9a847dd
+run_name: aged-fawn-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751665115445
+status: 3
+tags: []
+user_id: codespace

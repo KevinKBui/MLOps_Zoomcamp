@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/459774653220868017/ead0bcb211364321a2f4e2a1942b985a/artifacts
+end_time: 1751664689494
+entry_point_name: ''
+experiment_id: '459774653220868017'
+lifecycle_stage: active
+run_id: ead0bcb211364321a2f4e2a1942b985a
+run_name: mercurial-toad-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751664686403
+status: 3
+tags: []
+user_id: codespace
